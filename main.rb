@@ -5,3 +5,4 @@ def hello(name)
 end
 
 hello("Dmitry")
+puts "Another things I just added"
